@@ -1,0 +1,28 @@
+# Playwright specific
+playwright/.auth/
+test-results/
+playwright-report/
+blob-report/
+allure-results/
+
+# Java / Maven / Gradle
+target/
+build/
+.gradle/
+*.class
+.mvn/
+hs_err_pid*
+
+# IDEs and Editors
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+.sts
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.log
