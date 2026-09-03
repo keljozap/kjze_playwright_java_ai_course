@@ -1,4 +1,4 @@
-package com.automationdojo.playwright.ai;
+package com.automationdojo.playwright.ai.home;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
